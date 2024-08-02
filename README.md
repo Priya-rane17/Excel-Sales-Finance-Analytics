@@ -26,8 +26,11 @@ Determine effective customer discounts, facilitate negotiations with consumers, 
   1. Created Profit and Loss (P&L) reports by Fiscal Year:
 Link: https://github.com/Priya-rane17/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
 
-  2. Created Profit and Loss (P&L) reports by Markets:
-Link: https://github.com/Priya-rane17/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf
+ 2. Created Profit and Loss (P&L) reports by Fiscal Month:
+  https://github.com/Priya-rane17/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf
+
+ 3. Created Profit and Loss (P&L) reports by Markets:
+Link: https://github.com/Priya-rane17/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf 
 
 # Purpose of finance analytics:
  Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
